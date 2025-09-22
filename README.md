@@ -1,5 +1,6 @@
+[![EAAI 2025](https://img.shields.io/badge/EAAI%202025-10.1016%2Fj.engappai.2025.111194-blue)](https://doi.org/10.1016/j.engappai.2025.111194)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17164809.svg)](https://doi.org/10.5281/zenodo.17164809)
-[![Dataset DOI](https://img.shields.io/badge/Mendeley%20Data-10.17632/s86tdtmcc2.1-blue)](https://doi.org/10.17632/s86tdtmcc2.1)
+[![Dataset DOI](https://img.shields.io/badge/Mendeley%20Data-10.17632/s86tdtmcc2.1-blue)](https://data.mendeley.com/drafts/s86tdtmcc2)
 
 # smartwatch-imu-upperlimb
 Reproducible preprocessing &amp; feature-extraction pipeline for a smartwatch IMU upper-limb dataset (20 Hz). Includes segmentation (1.0 s &amp; 2.56 s), time/frequency features, jerk/magnitude, and a 46-feature subset. Pairs with data on Mendeley Data and a Zenodo DOI release.
@@ -10,7 +11,7 @@ Reproducible preprocessing & feature-extraction pipeline for our **Data in Brief
 
 ## Data
 Download data from Mendeley Data and place under `data/` (not tracked in git):
-- DOI: **10.17632/XXXXXX.1** (replace once issued)
+- DOI: **10.17632/s86tdtmcc2.1** (reseserved but sill not active)
 
 ## Quick start
 ```bash
